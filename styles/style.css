@@ -2,14 +2,14 @@ body {
   padding: 1rem;
   border: 1px solid black;
 }
-  
+
 .buttons {
   background-color: black;
   padding: 8px;
   border-radius: 8px;
   height: 260px;
 }
-  
+
 .empty {
   width: 100%;
   padding: 2rem;
@@ -17,7 +17,7 @@ body {
   border: none;
   margin-bottom: 7px;
 }
-  
+
 .bot {
   width: 56%;
   background-color: #bebcbc;
@@ -27,7 +27,7 @@ body {
   border-radius: 8px;
   color: #fff;
 }
-  
+
 .hot,
 .rem,
 .see,
@@ -62,4 +62,3 @@ body {
   color: #fff;
   margin-top: 6px;
 }
-  
